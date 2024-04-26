@@ -1,6 +1,7 @@
 require("default.set")
 require("default.remap")
 require("default.lazy_init")
+require("default.color")
 
 -- DO.not
 -- DO NOT INCLUDE THIS
