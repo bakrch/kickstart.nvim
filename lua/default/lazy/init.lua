@@ -1,6 +1,7 @@
 return {
 
 	"tpope/vim-sleuth", -- Detect tabstop and shiftwidth automatically
+	"pearofducks/ansible-vim",
 	{ "numToStr/Comment.nvim", opts = {} },
 	{
 		"folke/todo-comments.nvim",
